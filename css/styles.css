@@ -1,0 +1,16 @@
+.recent-searches .search-keyword {
+    margin-right: 10px;
+}
+.recent-searches .delete {
+    border-radius: 2px;
+    padding: 0 2px;
+	color: inherit;
+}
+.recent-searches .delete:hover {
+    text-decoration: none;
+	background: none repeat scroll 0 0 red;
+	color: #fff;
+}
+.recent-searches .wait a {
+	cursor: wait;
+}
